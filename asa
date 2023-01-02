@@ -1,0 +1,36 @@
+local Libary = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Libary.CreateLib("Kaşar Rolwe", "DarkTheme")
+
+--Main
+local Tab = Window: NewTab ("Dogy")
+local Section = Tab:NewSection("bakıcaksın")
+
+
+Section:NewButton("Esp", "Açmıyıcaksın", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ssssa4848/sc/main/sc", true))()
+end)
+
+
+Section:NewButton("No Cooldown", "İzin vermiyorum", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ssssa4848/dd/main/dd", true))()
+end)
+
+
+Section:NewButton("Fly", "Mly", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ssssa4848/asas/main/asas", true))()
+end)
+
+
+Section:NewButton("Ric min mod alert", "Mod alert kardeş", function()
+    loadstring(game:HttpGet("https://github.com/ssssa4848/ddd/blob/main/ddd", true))()
+end)
+
+
+Section:NewButton("Rogue reb  mod alert", "Mod alert kardeş", function()
+    loadstring(game:HttpGet("https://github.com/ssssa4848/asase/blob/main/asase", true))()
+end)
+
+
+Section:NewButton("p ware", "açmıyıcaksın", function()
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/kottforfaan/ktkofooranfaaann/main/doesyeathaveacompetitionV2')))()
+end)
